@@ -1,0 +1,4 @@
+mohd	40
+ahmad	120
+ammar	62
+mo	51
